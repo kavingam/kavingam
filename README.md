@@ -31,7 +31,6 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
 </p>
-</div>
 <br/>
 <br/>
 <br/>
@@ -44,7 +43,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Personal ai assistant ](#)     |
 | [Portfolio Template ](#)     | 
 
-
+</div>
   
 
 All project is licensed under [Apache License 2.0](#) license.

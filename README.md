@@ -1,12 +1,5 @@
-<!-- 
-![reame4]() 
 
-<h1 align="center" >Hey, I'm <a href="" target="_blank"> Kavin Gam👋</a>
-  </br>
-<img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
-
-<!-- ![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192113603-d802367b-14e0-462e-9d30-e138caef5898.png) -->
-![GitHubBanner](https://github.com/KiranAminPanjwani/KiranAminPanjwani/assets/90326051/4ba4e89c-4670-4b43-a12e-c635d9a6a16f)
+![GitHubBanner]()
 
 
 <!-- <h3>About me,</h3> -->
@@ -41,3 +34,12 @@ front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back
 
 
 <h1 align="center">💻 Projects</h1>  
+
+* Event management website
+
+* Colour pridiction website
+
+* Personal ai assistant
+
+
+All project is licensed under Apache License 2.0 license.

@@ -36,8 +36,9 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <h1 align="center">💻 Projects</h1>  
 
-| Project Name | Description |
- [Event management website ](#) 
+| Project Name      | Description |
+| :---: |   | :---  |
+| [Event management website ](#) |
  [Colour pridiction website ](#) 
  [Personal ai assistant ](#) 
  [Portfolio Template ](#) 

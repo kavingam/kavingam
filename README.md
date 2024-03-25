@@ -43,6 +43,8 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 </div>
 
+## License
+
 <p aline="center">
 All project is licensed under [Apache License 2.0 license.](https://www.apache.org/)
 </p>

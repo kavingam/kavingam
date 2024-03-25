@@ -30,7 +30,7 @@ Programming Languages: PHP,Javascript,Java,Python,C++,C.
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
 </p>
 </div>
-
+<br/>
 <br/>
 <br/>
 <h1 align="center">💻 Projects</h1>  

@@ -36,12 +36,12 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <br/>
 <h1 align="center">💻 Projects</h1>  
-| Project Name      | Description | 
-| :---:        |    :----   | 
-| [Event management website ](#) ||
-| [Colour pridiction website ](#) ||
-| [Personal ai assistant ](#) ||
-| [Portfolio Template ](#) ||
+
+| Project Name | Description |
+ [Event management website ](#) 
+ [Colour pridiction website ](#) 
+ [Personal ai assistant ](#) 
+ [Portfolio Template ](#) 
 
 
 All project is licensed under [Apache License 2.0](#) license.

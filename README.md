@@ -42,8 +42,9 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Colour pridiction website ](#)    |
 | [Personal ai assistant ](#)     |
 | [Portfolio Template ](#)     | 
-
+<br/>
+All project is licensed under [Apache License 2.0](#) license.
 </div>
   
 
-All project is licensed under [Apache License 2.0](#) license.
+

@@ -38,7 +38,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | :---:        |    :----   |  
 | [Event management website ](#)    |   
 | [Colour pridiction website ](#)    |
-| [Personal ai assistant ](#)     |
+| [Personal ai assistant ](#)     | Personal AI assistants can automate many routine tasks, saving you time and effort. This can include things like setting reminders, scheduling appointments, making calls or texts (by voice command), creating shopping lists, or following up on emails.
 | [Portfolio Template ](#)     | 
 </div>
 

@@ -33,7 +33,6 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <br/>
 <h1 align="center">💻 Projects</h1>  
-
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Event management website ](#)    |   Whether it's a corporate gala, a wedding celebration, or a social gathering, we provide expert planning, seamless execution, and exceptional service to create a memorable experience for you and your guests. Relax and enjoy the occasion, while we take care of everything behind the scenes.
@@ -41,5 +40,5 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Personal ai assistant ](#)     | Personal AI assistants can automate many routine tasks, saving you time and effort. This can include things like setting reminders, scheduling appointments, making calls or texts (by voice command), creating shopping lists, or following up on emails.
 | [Portfolio Template ](#)   | simple portfolio templates.|
 </div>
-
-<p align="center">All project is licensed under [Apache License 2.0 license.](https://www.apache.org/)</p>  
+<br/>
+All project is licensed under [Apache License 2.0 license.](https://www.apache.org/)

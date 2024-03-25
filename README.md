@@ -11,7 +11,7 @@ I'm a passionate <b>full-stack developer</b> with a knack for building beautiful
 
 <h1>🛠 Technical Skills</h1>
    
-   <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/196059543-f26eed56-e331-4211-8c0f-7ec25ab482de.png">
+   <img width="55%" align="right"   src="https://user-images.githubusercontent.com/90326051/196059543-f26eed56-e331-4211-8c0f-7ec25ab482de.png">
 
 front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back-end databases (MySQL, MongoDB), and version control systems (Git).
 
@@ -27,7 +27,6 @@ Programming Languages: PHP,Javascript,Java,Python,C++,C.
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
 </p>
 

@@ -11,7 +11,7 @@ I'm a passionate <b>full-stack developer</b> with a knack for building beautiful
 
 <h1>🛠 Technical Skills</h1>
    
-   <img width="55%" align="right"   src="https://img.freepik.com/free-vector/illustrated-cms-concept-flat-design_23-2148800725.jpg?w=740&t=st=1711355028~exp=1711355628~hmac=c026b3e13bd5ca8f3bb348ef3a1e059493024ffa45e0176ee0a44dd3dd9bac86">
+   <img width="40%" align="right"   src="https://img.freepik.com/free-vector/illustrated-cms-concept-flat-design_23-2148800725.jpg?w=740&t=st=1711355028~exp=1711355628~hmac=c026b3e13bd5ca8f3bb348ef3a1e059493024ffa45e0176ee0a44dd3dd9bac86">
 
 front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back-end databases (MySQL, MongoDB), and version control systems (Git).
 

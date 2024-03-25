@@ -40,4 +40,6 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Personal ai assistant ](#)     | Personal AI assistants can automate many routine tasks, saving you time and effort. This can include things like setting reminders, scheduling appointments, making calls or texts (by voice command), creating shopping lists, or following up on emails.
 | [Portfolio Template ](#)   | simple portfolio templates.|
 </div>
+<p aline="center">
 All project is licensed under [Apache License 2.0 license.](https://www.apache.org/)
+</p>

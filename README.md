@@ -42,4 +42,4 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Portfolio Template ](#)   | simple portfolio templates.|
 </div>
 
-<p align="center">All project is licensed under Apache License 2.0 license.</p>  
+<p align="center">All project is licensed under [Apache License 2.0 license.](https://www.apache.org/)</p>  

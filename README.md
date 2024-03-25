@@ -43,6 +43,6 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 <br/>
 
-<h1> License</h1>
+<h1> 🗒️ License</h1>
 
 All project is licensed under [Apache License 2.0 license.](https://www.apache.org/)

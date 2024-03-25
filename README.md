@@ -31,13 +31,6 @@ Programming Languages: PHP,Javascript,Java,Python,C++,C.
 </p>
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <h1 align="center">💻 Projects</h1>  
 
 * Event management website

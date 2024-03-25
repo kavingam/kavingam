@@ -43,10 +43,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Personal ai assistant ](#)     |
 | [Portfolio Template ](#)     | 
 <br/>
-
-<p>All project is licensed under [Apache License 2.0](#) license.</p>
-
 </div>
-  
+<p align="center">All project is licensed under [Apache License 2.0](#) license.</p>  
 
 

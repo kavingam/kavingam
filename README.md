@@ -5,7 +5,9 @@
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
-I'm a passionate <b>full-stack developer</b> with a knack for building beautiful and functional web applications. I thrive on challenges and love learning new technologies to bring ideas to life.
+I'm a <br>full-stack developer</b> with a passion for crafting user-friendly interfaces. Recently, I spearheaded the development of a new e-commerce platform that resulted in a 20% increase in conversions. I'm a strong believer in Agile development and love collaborating with cross-functional teams.
+
+A highly motivated <b>full-stack</b> developer with 5+ years of experience. I have a deep understanding of both front-end frameworks like React and back-end languages like <b>Python</b>. In my free time, I enjoy building open-source projects and contributing to the developer community.
  
  <div align="center">
 

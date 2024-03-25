@@ -35,11 +35,10 @@ Programming Languages: PHP,Javascript,Java,Python,C++,C.
 <br/>
 <h1 align="center">💻 Projects</h1>  
 
-* Event management website
+- [Event management website ](#)
+- [Colour pridiction website ](#)
+- [Personal ai assistant ](#)
+- [Portfolio Template ](#)
 
-* Colour pridiction website
 
-* Personal ai assistant
-
-
-All project is licensed under Apache License 2.0 license.
+All project is licensed under [Apache License 2.0](#) license.

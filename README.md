@@ -18,8 +18,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <b>back-end</b> <i>PHP,Javascript,Java,Python,C++,C.</i>
 
 
-<p align="center"> 
-     
+
      ![](https://img.shields.io/badge/HTML5-green?style=for-the-badge&logo=html5&logoColor=blue)
      ![](https://img.shields.io/badge/CSS-green?style=for-the-badge&logo=Cascading%20Style%20Sheets&logoColor=blue)
      ![](https://img.shields.io/badge/java_script-green?style=for-the-badge&logo=javascript&logoColor=blue)
@@ -28,8 +27,6 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
      ![](https://img.shields.io/badge/php-green?style=for-the-badge&logo=php&logoColor=blue)
      ![](https://img.shields.io/badge/c_program-green?style=for-the-badge&logo=c&logoColor=blue)
      ![](https://img.shields.io/badge/c%2B%2B-green?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-
-</p>
 
 <br/>
 <br/>

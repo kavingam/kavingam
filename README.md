@@ -12,7 +12,10 @@ I'm a passionate <b>full-stack developer</b> with a knack for building beautiful
 <h1>🛠 Technical Skills</h1>
    
    <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/196059543-f26eed56-e331-4211-8c0f-7ec25ab482de.png">
+
 front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back-end databases (MySQL, MongoDB), and version control systems (Git).
+
+Programming Languages: PHP,Javascript,Java,Python,C++,C.
 
 
 <p align="center"> 
@@ -32,7 +35,7 @@ front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back
 </p>
 
 
-
+</div>
 <h1 align="center">💻 Projects</h1>  
 
 * Event management website

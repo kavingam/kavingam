@@ -35,7 +35,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <br/>
 <br/>
-
+##
 <h1 align="center">💻 Projects</h1> 
 
 | Project Name      | Description | 

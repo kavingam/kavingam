@@ -15,9 +15,9 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
    
    <img width="40%" align="right"   src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-workplace_625536-3771.jpg?w=600">
 
-front-end HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back-end databases (MySQL, MongoDB), and version control systems (Git).
+<b>front-end</b> <i>HTML, CSS, JavaScript, specific frameworks (React, Django, etc.), Back-end databases (MySQL, MongoDB), and version control systems (Git).</i>
 
-Programming Languages: PHP,Javascript,Java,Python,C++,C.
+<b>back-end</b> <i>PHP,Javascript,Java,Python,C++,C.</i>
 
 
 <p align="center"> 

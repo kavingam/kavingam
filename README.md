@@ -36,17 +36,16 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <h1 align="center">💻 Projects</h1>  
 
-| Project Name      | Description |
-| :---: |   | :---  |
-| [Event management website ](#) |
- [Colour pridiction website ](#) 
- [Personal ai assistant ](#) 
- [Portfolio Template ](#) 
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Event management website ](#)    |   
+| [Colour pridiction website ](#)    |
+| [Personal ai assistant ](#)     |
+| [Portfolio Template ](#)     | 
 </div>
 
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
+
 | [Imdad](https://imdad.netlify.app/)  | Bridging the gap between NGOs and public. Encouraging people to raise money for needy people and maintaining an accurate record of their valuable donations.
 | [LeatherHoard](https://leatherhoard.netlify.app/)     | A basic template for e-commerce website, designed with HTML, CSS and Bootstrap. It is an open-source website.
 | [Randomized Color Lab](https://colors-lab.netlify.app/)     | A React color-guessing project will help beginners understand the basic principles of React.js (components, properties, and hooks).

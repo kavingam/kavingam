@@ -1,15 +1,13 @@
 
 ![GitHubBanner](https://github.com/bhaitigam71/bhaitigam71/blob/main/assets/img/portfolio%20sreenshort.png)
 
-
-<!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
 I'm a <b>full-stack developer</b> with a passion for crafting user-friendly interfaces. Recently, I spearheaded the development of a new e-commerce platform that resulted in a 20% increase in conversions. I'm a strong believer in Agile development and love collaborating with cross-functional teams.
 
 A highly motivated <b>full-stack developer</b> with 5+ years of experience. I have a deep understanding of both front-end frameworks like React and back-end languages like <b>Python</b>. In my free time, I enjoy building open-source projects and contributing to the developer community.
  
- <div align="center">
+<div align="center">
 
 <h1>🛠 Technical Skills</h1>
    
@@ -42,8 +40,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Colour pridiction website ](#)    |
 | [Personal ai assistant ](#)     |
 | [Portfolio Template ](#)     | 
-<br/>
-</div>
+
 <p align="center">All project is licensed under [Apache License 2.0 ](#) license.</p>  
 
 

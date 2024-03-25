@@ -27,6 +27,12 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 ![](https://img.shields.io/badge/c_program-green?style=for-the-badge&logo=c&logoColor=blue)
 ![](https://img.shields.io/badge/c%2B%2B-green?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 
+##
+
+[](https://img.shields.io/badge/DBMS-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=blue&labelColor=white&color=blue)
+[](https://img.shields.io/badge/DBMS-MariaDB-blue?style=for-the-badge&logo=mariadb&logoColor=blue&labelColor=white&color=blue)
+[](https://img.shields.io/badge/DBMS-Mongodb-blue?style=for-the-badge&logo=mongodb&logoColor=blue&labelColor=white&color=blue)
+
 <br/>
 <br/>
 <br/>

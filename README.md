@@ -1,5 +1,5 @@
 
-![GitHubBanner]()
+![GitHubBanner](https://github.com/bhaitigam71/bhaitigam71/blob/main/assets/img/portfolio%20sreenshort.png)
 
 
 <!-- <h3>About me,</h3> -->

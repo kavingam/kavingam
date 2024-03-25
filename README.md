@@ -36,8 +36,8 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Event management website ](#)    |   Whether it's a corporate gala, a wedding celebration, or a social gathering, we provide expert planning, seamless execution, and exceptional service to create a memorable experience for you and your guests. Relax and enjoy the occasion, while we take care of everything behind the scenes.
-| [Colour pridiction website ](#)    | Looking for a quick and fun challenge? Play our color prediction game! See if you can guess the next color displayed and rack up points. It's a great way to unwind and test your luck. Play solo or challenge your friends for some friendly competition.
+| [Event management system ](#)    |   Whether it's a corporate gala, a wedding celebration, or a social gathering, we provide expert planning, seamless execution, and exceptional service to create a memorable experience for you and your guests. Relax and enjoy the occasion, while we take care of everything behind the scenes.
+| [Colour pridiction game ](#)    | Looking for a quick and fun challenge? Play our color prediction game! See if you can guess the next color displayed and rack up points. It's a great way to unwind and test your luck. Play solo or challenge your friends for some friendly competition.
 | [Personal ai assistant ](#)     | Personal AI assistants can automate many routine tasks, saving you time and effort. This can include things like setting reminders, scheduling appointments, making calls or texts (by voice command), creating shopping lists, or following up on emails.
 | [Portfolio Template ](#)   | simple portfolio templates.|
 

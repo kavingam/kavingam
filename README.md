@@ -48,7 +48,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <h1> 📲 Contact me</h1>
 
-![](https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail)
+<a href=""><img alt="" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail"></a>
 
 <h1> 🗒️ License</h1>
 

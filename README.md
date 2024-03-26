@@ -49,7 +49,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <h1> 📲 Contact me</h1>
 
 > ### Great things in computer science don't happen by accident. They happen by design and hard work
-<p align="right"><i>Rich Hickey.❤️</i></p>
+<p align="right"><i> ~ Rich Hickey.❤️</i></p>
 
 <a href=""><img alt="" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail"></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/github-yellow?style=for-the-badge&logo=github"></a>

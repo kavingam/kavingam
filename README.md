@@ -49,6 +49,11 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <h1> 📲 Contact me</h1>
 
 <a href=""><img alt="" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail"></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/github-yellow?style=for-the-badge&logo=github"></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/linkedin-yellow?style=for-the-badge&logo=linkedin"></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/kaggle-yellow?style=for-the-badge&logo=kaggle"></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/twitter-yellow?style=for-the-badge&logo=twitter"></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram"></a>
 
 <h1> 🗒️ License</h1>
 

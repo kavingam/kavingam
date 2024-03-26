@@ -9,7 +9,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
  
 <div align="center">
 
-<h1>🛠 Technical Skills</h1>
+<h1>🪛 Technical Skills</h1>
    
    <img width="40%" align="right"   src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-workplace_625536-3771.jpg?w=600">
 
@@ -46,6 +46,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Portfolio Template ](https://github.com/kavingam/Portfolio)   | simple portfolio templates.|
 
 <br/>
+<h1> 📲 Contact me</h1>
 
 <h1> 🗒️ License</h1>
 

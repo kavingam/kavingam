@@ -36,12 +36,12 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <br/>
 
-<h1 align="center">💻 Web Base Projects & UI/UX</h1> 
+<h1 align="center">💻 Web Base Projects & UI/UX Design</h1> 
 
 | Project Name     | Description     |  Resource | 
 | :---     | :----     | :---     |
-| [Portfolio Template ](https://kavingam.github.io/Portfolio/) | portfolio templates.| ![](https://img.shields.io/badge/GET_LINK-CLICK-green?style=plastic&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio) 
-| [Traveling Management System]()   | kavin | kavin 
+| [Portfolio Template ](https://kavingam.github.io/Portfolio/) | PORTFOLIO | ![](https://img.shields.io/badge/GET_LINK-CLICK-green?style=plastic&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio) 
+| [Traveling Management System]()   | |  
 | [Hotel Management System]()    | | 
 | [Event Management System]()     | |  
 | [Truism Management System]() | |
@@ -49,6 +49,12 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 
 <br/>
+<h1 align="center">💻 Android Base Projects & UI/UX Design</h1> 
+
+| Project Name     | Description     |  Resource | 
+
+<br/>
+
 <h1> 📲 Contact me</h1>
 
 > ### Great things in computer science don't happen by accident. They happen by design and hard work

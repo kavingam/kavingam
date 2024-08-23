@@ -44,6 +44,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Colour pridiction game ](https://github.com/kavingam/colour-prediction-game)    | Looking for a quick and fun challenge? Play our color prediction game! See if you can guess the next color displayed and rack up points. It's a great way to unwind and test your luck. Play solo or challenge your friends for some friendly competition.
 | [Personal ai assistant ](https://github.com/kavingam/pike-ai)     | Personal AI assistants can automate many routine tasks, saving you time and effort. This can include things like setting reminders, scheduling appointments, making calls or texts (by voice command), creating shopping lists, or following up on emails.
 | [Portfolio Template ](https://github.com/kavingam/Portfolio)   | simple portfolio templates.|
+| [Other Project List]() | Web design. | 
 
 <br/>
 <h1> 📲 Contact me</h1>

@@ -42,10 +42,10 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | :---     | :----     | :---     |
 | Portfolio Template | PORTFOLIO | ![](https://img.shields.io/badge/get_link-click-green?style=flat-square&logo=github&logoColor=black&logoSize=36&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio)
 | Traveling Management System | | ![](https://img.shields.io/badge/get_link-click-green?style=flat-square&logo=github&logoColor=black&logoSize=36&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FTraveling-Management-System&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FTraveling-Management-System)
-| Hotel Management System] | | 
-| Event Management System | |  
-| Truism Management System | |
-| Other Project List| Web design. | |
+| Hotel Management System] | | ![](https://img.shields.io/badge/get_link-click-green?style=flat-square&logo=github&logoColor=black&logoSize=36&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FHotel-Management-System&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FHotel-Management-System)
+| Event Management System | | ![](https://img.shields.io/badge/get_link-click-green?style=flat-square&logo=github&logoColor=black&logoSize=36&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FEvents-Management-System&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FEvents-Management-System) 
+| Truism Management System | | ![](https://img.shields.io/badge/get_link-click-green?style=flat-square&logo=github&logoColor=black&logoSize=36&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FTourism-Management-System&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FTourism-Management-System)
+
 
 
 <br/>

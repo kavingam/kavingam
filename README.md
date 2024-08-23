@@ -43,10 +43,10 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Portfolio Template ](https://kavingam.github.io/Portfolio/) | portfolio templates.| ![](https://img.shields.io/badge/GET_LINK-CLICK-green?style=plastic&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio) 
 
 | [Traveling Management System]()   | kavin | kavin 
-| [Hotel Management System]()    | | |
-| [Event Management System]()     | |  |
+| [Hotel Management System]()    | | 
+| [Event Management System]()     | |  
 | [Truism Management System]() | |
-| [Other Project List](https://github.com/kavingam/Other-Web-Project-/tree/main) | Web design. |  | |
+| [Other Project List](https://github.com/kavingam/Other-Web-Project-/tree/main) | Web design. | |
 
 <br/>
 <h1> 📲 Contact me</h1>

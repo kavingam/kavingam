@@ -69,11 +69,11 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <p align="right"><i> ~ Rich Hickey.❤️</i></p>
 
 <a href="mailto:darksicker71@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/kavingam" target="_blank"><img alt="" src="https://img.shields.io/badge/github-yellow?style=for-the-badge&logo=github"></a>
+<!--a href="https://github.com/kavingam" target="_blank"><img alt="" src="https://img.shields.io/badge/github-yellow?style=for-the-badge&logo=github"></a-->
 <a href="https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-jobseeker-profile--profile-one-frontend"><img alt="" src="https://img.shields.io/badge/linkedin-yellow?style=for-the-badge&logo=linkedin" target="_blank"></a>
 <a href="https://www.kaggle.com/bhaitigam"><img alt="" target="_blank" src="https://img.shields.io/badge/kaggle-yellow?style=for-the-badge&logo=kaggle"></a>
-<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/twitter-yellow?style=for-the-badge&logo=twitter"></a>
-<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram"></a>
+<!--a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/twitter-yellow?style=for-the-badge&logo=twitter"></a>
+<a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram"></a-->
 
 <h1> 🗒️ License</h1>
 

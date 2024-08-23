@@ -46,7 +46,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | [Hotel Management System]()    | | |
 | [Event Management System]()     | |  |
 | [Truism Management System]() | |
-| [Other Project List](https://github.com/kavingam/Other-Web-Project-/tree/main) | Web design. |  | 
+| [Other Project List](https://github.com/kavingam/Other-Web-Project-/tree/main) | Web design. |  | |
 
 <br/>
 <h1> 📲 Contact me</h1>

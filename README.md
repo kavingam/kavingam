@@ -64,9 +64,9 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 
 <h1> 📲 Contact me</h1>
-
+<!--
 > ### Great things in computer science don't happen by accident. They happen by design and hard work
-<p align="right"><i> ~ Rich Hickey.❤️</i></p>
+<p align="right"><i> ~ Rich Hickey.❤️</i></p> -->
 
 <a href="mailto:darksicker71@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail"></a>
 <!--a href="https://github.com/kavingam" target="_blank"><img alt="" src="https://img.shields.io/badge/github-yellow?style=for-the-badge&logo=github"></a-->
@@ -76,5 +76,4 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram"></a-->
 
 <h1> 🗒️ License</h1>
-
 All project is licensed under [Apache License 2.0 license.](https://www.apache.org/)

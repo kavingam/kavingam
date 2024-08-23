@@ -38,9 +38,10 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 <h1 align="center">💻 Projects</h1> 
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Portfolio Template ](https://kavingam.github.io/Portfolio/)   | portfolio templates.|
+| Project Name      | Description |     | Resource |
+| :---:        |    :----   |  :---- |
+| [Portfolio Template ](https://kavingam.github.io/Portfolio/)   | portfolio templates.| (https://img.shields.io/badge/GET_LINK-CLICK-green?style=plastic&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FPortfolio
+)
 | [Event management system ](https://github.com/kavingam/event-management-system)    |   Whether it's a corporate gala, a wedding celebration, or a social gathering, we provide expert planning, seamless execution, and exceptional service to create a memorable experience for you and your guests. Relax and enjoy the occasion, while we take care of everything behind the scenes.
 | [Colour pridiction game ](https://github.com/kavingam/colour-prediction-game)    | Looking for a quick and fun challenge? Play our color prediction game! See if you can guess the next color displayed and rack up points. It's a great way to unwind and test your luck. Play solo or challenge your friends for some friendly competition.
 | [Personal ai assistant ](https://github.com/kavingam/pike-ai)     | Personal AI assistants can automate many routine tasks, saving you time and effort. This can include things like setting reminders, scheduling appointments, making calls or texts (by voice command), creating shopping lists, or following up on emails.

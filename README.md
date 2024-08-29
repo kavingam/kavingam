@@ -64,14 +64,14 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 | NLP Projects | Transformers in NLP: Transformers revolutionize Natural Language Processing (NLP) by using attention mechanisms to handle sequences of text. They excel in Natural Language Understanding (NLU) tasks like sentiment analysis and question answering, and in Natural Language Generation (NLG) tasks such as text completion and translation. Python, with libraries like Hugging Face's Transformers, provides powerful tools to implement, fine-tune, and deploy these models efficiently. | ![](https://img.shields.io/badge/click_me-link-green?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FNLP-Research-Project-Report%2Ftree%2Fmain&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FNLP-Research-Project-Report%2Ftree%2Fmain)
 
 <h1> 📲 Contact me</h1>
-<!--
-> ### Great things in computer science don't happen by accident. They happen by design and hard work
-<p align="right"><i> ~ Rich Hickey.❤️</i></p> -->
+## Social Media
 
-<a href="mailto:darksicker71@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail"></a>
-<!--a href="https://github.com/kavingam" target="_blank"><img alt="" src="https://img.shields.io/badge/github-yellow?style=for-the-badge&logo=github"></a-->
-<a href="https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-jobseeker-profile--profile-one-frontend"><img alt="" src="https://img.shields.io/badge/linkedin-yellow?style=for-the-badge&logo=linkedin" target="_blank"></a>
-<a href="https://www.kaggle.com/bhaitigam"><img alt="" target="_blank" src="https://img.shields.io/badge/kaggle-yellow?style=for-the-badge&logo=kaggle"></a>
+Follow and connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
 
 <h1> 🗒️ License</h1>
 <p align="center">

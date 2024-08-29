@@ -57,7 +57,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
  
 <h1 align="center">💻 Data Science Project </h1> 
-
+[![Ai](assets/img/AI_Microsoft_Research_Header_1920x720.png)](https://github.com/kavingam)
 | Project Name     | Description     |  Resource | 
 | :--- | :---- | :--- |
 | Advance Sentiment Analysis Transformer (ASAT)| Advanced sentiment analysis involves using deep learning models, particularly transformers like BERT (Bidirectional Encoder Representations from Transformers), to determine the sentiment (positive, negative, neutral) of a given text. The process begins with tokenization, where text is split into tokens. These tokens are then converted into embeddings, which are numerical vectors representing the semantic meaning of words. The transformer model processes these embeddings using layers of self-attention and feed-forward networks to capture contextual relationships within the text. The output is passed through a classifier that assigns sentiment labels based on the processed data. | ![](https://img.shields.io/badge/get_link-click-green?logo=github&logoColor=black&logoSize=36&cacheSeconds=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fget_link-click-green%3Flogo%3Dgithub%26logoColor%3Dblack%26logoSize%3D36%26link%3Dhttps%253A%252F%252Fgithub.com%252Fkavingam%252Fadvance-sentiment-analysis-transformer%26link%3Dhttps%253A%252F%252Fgithub.com%252Fkavingam%252Fadvance-sentiment-analysis-transformer&link=https%3A%2F%2Fgithub.com%2Fkavingam%2Fadvance-sentiment-analysis-transformer&link=https%3A%2F%2Fgithub.com%2Fkavingam%2Fadvance-sentiment-analysis-transformer)
@@ -70,8 +70,6 @@ Follow and connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-[![Ai](assets/img/AI_Microsoft_Research_Header_1920x720.png)](https://github.com/kavingam)
 
 
 <h1> 🗒️ License</h1>

@@ -53,6 +53,8 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <br/>
 <h1 align="center">💻 Android Base Projects & UI/UX Design</h1> 
 
+[![](assets/img/android-dev-project.jpg)]()
+
 | Project Name     | Description     |  Resource | 
 | :--- | :---- | :--- |
 | KHOT Chat App |The KHOT Chat Android application is a modern messaging platform designed for fast and secure communication. It offers real-time chat, voice, and video calling features, all within an intuitive interface. Users can create group chats, share multimedia files, and enjoy end-to-end encryption for privacy. The app also supports customizable themes, notifications, and seamless integration with contacts. Whether for personal or professional use, KHOT Chat provides a reliable and user-friendly experience for staying connected with friends, family, or colleagues. | ![](https://img.shields.io/badge/get_link-click-green?style=flat-square&logo=github&logoColor=black&logoSize=36&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FKHOT&link=https%3A%2F%2Fgithub.com%2Fkavingam%2FKHOT)

@@ -38,7 +38,7 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 <h1 align="center">💻 Web Base Projects & UI/UX Design</h1> 
 
-[![Web base project & UI & UX](assets/img/Web-Base-Project.jpg)]()
+[![Web base project & UI & UX](assets/img/web-dev.jpg)]()
 
 | Project Name     | Description     |  Resource | 
 | :---     | :----     | :---     |

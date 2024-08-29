@@ -75,5 +75,5 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 
 <h1> 🗒️ License</h1>
 <p align="center">
- ![](https://img.shields.io/badge/All_project_is_licensed_under-blue?style=flat-square&logo=gnu)
+  <img alt="Static Badge" src="https://img.shields.io/badge/All_project_is_licensed_under-blue?style=flat-square&logo=gnu">
 </p>

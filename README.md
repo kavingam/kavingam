@@ -74,6 +74,8 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 <a href="https://www.kaggle.com/bhaitigam"><img alt="" target="_blank" src="https://img.shields.io/badge/kaggle-yellow?style=for-the-badge&logo=kaggle"></a>
 <!--a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/twitter-yellow?style=for-the-badge&logo=twitter"></a>
 <a href="#" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram"></a-->
-<!-- -->
+
 <h1> 🗒️ License</h1>
- ![](https://img.shields.io/badge/All_project_is_licensed_under-blue?style=flat-square&logo=gnu)
+<p>
+ [](https://img.shields.io/badge/All_project_is_licensed_under-blue?style=flat-square&logo=gnu)
+</p>

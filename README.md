@@ -71,7 +71,7 @@ Follow and connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
-[![My GitHub Profile](https://www.microsoft.com/en-us/research/uploads/prodnew/2023/03/AI_Microsoft_Research_Header_1920x720.png)](https://github.com/kavingam)
+[![Ai](assets/img/AI_Microsoft_Research_Header_1920x720.png)](https://github.com/kavingam)
 
 
 <h1> 🗒️ License</h1>

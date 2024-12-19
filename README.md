@@ -1,15 +1,13 @@
 
 ![GitHubBanner](https://github.com/bhaitigam71/bhaitigam71/blob/main/assets/img/portfolio%20sreenshort.png)
 ****
-<h1 align="center"> About me</h1>
+<h1 align="center">summary</h1>
 
-I'm a <b>full-stack developer</b> with a passion for crafting user-friendly interfaces. Recently, I spearheaded the development of a new e-commerce platform that resulted in a 20% increase in conversions. I'm a strong believer in Agile development and love collaborating with cross-functional teams.
-
-A highly motivated <b>full-stack developer</b> with 5+ years of experience. I have a deep understanding of both front-end frameworks like React and back-end languages like <b>Python</b>. In my free time, I enjoy building open-source projects and contributing to the developer community.
+a passionate and motivated Full Stack Developer with hands-on experience in web technologies such as PHP, ReactJS, Node.js, MongoDB, and MYSQL. Currently pursuing a Master’s degree in Computer Applications, with a focus on Full Stack Web Development and Data Science. I have worked on various projects like an Event Management System and Hotel Management System, and I am skilled in both front-end and back-end development. I am eager to apply my skills in real-world projects and continue learning while contributing to meaningful work in a dynamic environment.
  
 <div align="center">
 
-<h1>🪛 Technical Skills</h1>
+<h1>🪛 Technical skills</h1>
    
    <img width="40%" align="right"   src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-workplace_625536-3771.jpg?w=600">
 
@@ -33,10 +31,6 @@ A highly motivated <b>full-stack developer</b> with 5+ years of experience. I ha
 ![](https://img.shields.io/badge/DBMS-Mongodb-blue?style=for-the-badge&logo=mongodb&logoColor=blue&labelColor=white&color=blue)
 
 <br/>
-<br/>
-
-<h1> 📲 Social Media</h1>
-
 Follow and connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kavingam/)

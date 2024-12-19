@@ -1,5 +1,4 @@
 
-![GitHubBanner](https://github.com/bhaitigam71/bhaitigam71/blob/main/assets/img/portfolio%20sreenshort.png)
 ****
 <h1 align="center">summary</h1>
 
@@ -7,7 +6,7 @@ a passionate and motivated Full Stack Developer with hands-on experience in web 
  
 <div align="center">
 
-<h3>🪛 Technical skills</h3>
+<h3>Technical skills</h3>
    
    <img width="40%" align="right"   src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-workplace_625536-3771.jpg?w=600">
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i Am Kavin Gam</h1>
+<h1 align="center">Hi, i am Kavin Gam</h1>
 <h1 align="center">Wlecome to my github profile</h1>
 <h3 align="center">summary</h3>
 

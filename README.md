@@ -7,7 +7,7 @@ a passionate and motivated Full Stack Developer with hands-on experience in web 
  
 <div align="center">
 
-<h1>🪛 Technical skills</h1>
+<h3>🪛 Technical skills</h3>
    
    <img width="40%" align="right"   src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-workplace_625536-3771.jpg?w=600">
 
@@ -38,7 +38,3 @@ Follow and connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kavingam)
 
 
-<h1> 🗒️ License</h1>
-<p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/All_project_is_licensed_under-blue?style=flat-square&logo=gnu">
-</p>

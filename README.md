@@ -1,5 +1,3 @@
-
-****
 <h1 align="center">summary</h1>
 
 a passionate and motivated Full Stack Developer with hands-on experience in web technologies such as PHP, ReactJS, Node.js, MongoDB, and MYSQL. Currently pursuing a Master’s degree in Computer Applications, with a focus on Full Stack Web Development and Data Science. I have worked on various projects like an Event Management System and Hotel Management System, and I am skilled in both front-end and back-end development. I am eager to apply my skills in real-world projects and continue learning while contributing to meaningful work in a dynamic environment.

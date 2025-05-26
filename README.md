@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Kavin Gam</h1>
-<h3 align="center">Software Engineer • Full-Stack Developer • Solution Architect</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer • Data Scientist & AI Model Developer</h3>
+
 
 <div align="center">
-  <img src="https://img.freepik.com/premium-vector/young-man-writing-code-desktop-computer-software-developer-work-workplace_625536-3771.jpg?w=600" width="400" alt="developer at work" />
+  <img src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=600&q=80" width="400" alt="Developer coding at desk" />
 </div>
+
 
 ---
 
@@ -22,12 +23,21 @@ I focus on writing **maintainable**, **secure**, and **performant** code to meet
 ## 🔧 What I Do
 
 - Design and develop full-stack web applications using PHP, JavaScript, Python, and modern frameworks.
-- Implement dynamic interfaces with HTML, CSS, Bootstrap, and JavaScript.
-- Build backend logic to handle complex data workflows, validation, and security.
-- Manage databases (MySQL, MongoDB, MariaDB) with optimized queries and structured schemas.
-- Automate backend processes and data exports (PDFs, print views, AJAX APIs).
-- Assist developers by providing reusable code, logic frameworks, and integration examples.
-- Contribute to internal tools and community-based solutions.
+- Implement dynamic user interfaces using HTML5, CSS3, Bootstrap, and JavaScript (ES6+).
+- Build robust backend systems for data validation, security, session handling, and API integration.
+- Manage structured and unstructured databases (MySQL, MongoDB, MariaDB) with optimized queries and indexing.
+- Automate processes including PDF generation, print views, and real-time data fetching with AJAX.
+- Provide reusable code modules, logic templates, and development guidance for collaborative projects.
+- Contribute to internal developer tools, shared knowledge bases, and open-source resources.
+
+### 🔬 Data Science & AI Work
+
+- Build and train machine learning models using Python (scikit-learn, TensorFlow, Keras).
+- Conduct emotion recognition projects like SER (Speech Emotion Recognition) and FER (Facial Emotion Recognition).
+- Preprocess datasets using NumPy, pandas, and audio/image processing libraries like Librosa and OpenCV.
+- Visualize data insights and model performance using Matplotlib and Seaborn.
+- Apply statistical analysis, feature engineering, and evaluation metrics to optimize ML models.
+
 
 ## 🛠️ Core Tech Stack
 

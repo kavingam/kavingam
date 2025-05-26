@@ -110,32 +110,57 @@ I focus on writing **maintainable**, **secure**, and **performant** code to meet
 </table>
 
 
-## 🧩 Tech Badges
+## 🧩 Tech Badges – Data Science Focused
 
-![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/C-green?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C++-green?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-2E74B5?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Database Tools
+---
 
-![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📊 Data Science Projects
+
+#### 🎙️ SER – Speech Emotion Recognition  
+A machine learning-based project that classifies human emotions from speech signals using audio features like MFCCs.  
+**Tech Stack**: Python • Librosa • Scikit-learn • TensorFlow • Jupyter Notebook  
+
+#### 🙂 FER – Face Emotion Recognition  
+A deep learning project for recognizing facial expressions using image data and convolutional neural networks (CNNs).  
+**Tech Stack**: Python • OpenCV • Keras • TensorFlow • CNN • Matplotlib  
+
 
 ---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavingam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavingam&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/kavingam">
+    <img src="https://github-readme-stats.vercel.app/api?username=kavingam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="Kavin Gam's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/kavingam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavingam&theme=radical&hide_border=true" width="48%" alt="Kavin Gam's GitHub Streak"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/kavingam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavingam&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+  </a>
 </p>
+
 
 ---
 

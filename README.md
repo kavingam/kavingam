@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kavin Gam</h1>
-<h3 align="center">Software Engineer • Full-Stack Developer • Data Scientist & AI Model Developer</h3>
+<h1 align="center">Hi 👋, I'm Kavin Gam (Bhaiti Gam)</h1>
+<h3 align="center">Software Engineer • Full-Stack Developer • MCA Data Science Student</h3>
+
 
 
 <div align="center">

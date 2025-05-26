@@ -175,15 +175,28 @@ A deep learning project for recognizing facial expressions using image data and 
 
 ---
 
-## 🤝 Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
-Helping developers, educators, and organizations build digital systems that solve real problems.
+I’m passionate about helping developers, educators, and organizations build impactful digital solutions that solve real-world problems.  
+Whether you're looking to collaborate on projects, share ideas, or discuss technology — I’m open and excited to connect!
 
-📩 Let’s connect — for development, collaboration, or solutions:
+### 📬 Reach out to me on:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kavingam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavin71/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kavingam)
+<p align="center">
+  <a href="https://github.com/kavingam" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kavin71/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kavingam" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+Feel free to **open an issue, drop a message, or invite me to your project** — let’s build something great together! 🚀
 
 ---
 
